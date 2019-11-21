@@ -1,0 +1,5 @@
+__pycache__
+*.ogg
+*.mkv
+client_secrets.json
+master.py-oauth2.json
