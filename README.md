@@ -39,7 +39,7 @@ _Before you run this application you have [python](https://www.python.org/downlo
 
 1. Clone this repo using `https://github.com/ocoiel/sintetic.git`
 2. Move to the appropriate directory: `cd sintetic`.<br />
-3. Run `pip install -r requeriments.txt` to install dependencies.<br />
+3. Run `pip install -r requirements.txt` to install dependencies.<br />
 4. Download _punkt_ of `NLTK`, the python module for _Natural Language Toolkit_:
 
 _Open a python terminal with `python3` and_:
