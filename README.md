@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="src/template/images/logo.png" alt="Sintetic" width="90">
+  <img src="src/template/images/logo.png" alt="Sintetic">
 <br>
 <br>
 Sintetic
