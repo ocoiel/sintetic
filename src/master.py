@@ -8,10 +8,10 @@ import sys
 import nltk
 import time
 from shutil import copyfile
-from imagerobot import ImageRobot
-from searchrobot import SearchRobot
-from videorobot import VideoRobot
-from uploadrobot import UploadRobot
+from image import ImageRobot
+from text import SearchRobot
+from video import VideoRobot
+from upload import UploadRobot
 from urllib.error import HTTPError
 import cv2
 import numpy as np

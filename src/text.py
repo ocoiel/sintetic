@@ -22,8 +22,8 @@ class SearchRobot:
 
         self.natural_language_understanding = NaturalLanguageUnderstandingV1(
                 version="2018-11-16",
-                iam_apikey="FQCBVugo5oTut94tU9JmzdIsvOetx1g3tMBWVRs8aYNN",
-                url="https://gateway.watsonplatform.net/natural-language-understanding/api")
+                iam_apikey="fill-here",
+                url="fill-here")
 
     def search(self, search_term):
         wiki.set_lang("pt")
