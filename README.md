@@ -31,6 +31,7 @@ This project features all the latest tools and practices in development!
 - 🌐 **Wikipedia** — The best online encyclopedia.
 - 💖 **Google Images** - API for fetch and download images.
 - 💎 **OpenCV** - Is a library of programming functions mainly aimed at real-time computer vision.
+- 🎵 **FFMPEG** - To render and convert the video file.
 - 🎧 **OAuth2 - Youtube** — Auth with your Google Account in Youtube.
 
 ## Getting started
